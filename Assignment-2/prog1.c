@@ -1,4 +1,4 @@
-//To find the composition of positive, negative and neutral amino acids. Also their hydrophobic and hydrophilic nature using pdb files.
+//To find the composition of positive, negative and neutral amino acids. Also their hydrophobic and hydrophilic amino acids using pdb files.
 
 #include<stdlib.h>
 #include<stdio.h>
