@@ -1,3 +1,4 @@
+//To find interacting chains
 #include<stdlib.h>
 #include<stdio.h>
 #include<string.h>
