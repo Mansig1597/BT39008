@@ -1,3 +1,4 @@
+//Centre of mass of the protein molecule with the assumption, mass of all the atoms considered equal
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
